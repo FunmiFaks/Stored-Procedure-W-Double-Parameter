@@ -1,1 +1,1 @@
-This stored procedure was created with souble paramters. 
+This stored procedure was created with double paramters. 
